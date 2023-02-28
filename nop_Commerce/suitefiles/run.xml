@@ -1,0 +1,9 @@
+<suite name="nopcommerce">
+    <test name="nopcommercelogintestcase">
+        <classes>
+            <class name="Electronics_testcase">
+
+            </class>
+        </classes>
+    </test>
+</suite>
